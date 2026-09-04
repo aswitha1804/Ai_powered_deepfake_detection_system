@@ -8,6 +8,7 @@ With the rapid growth of generative AI, creating realistic manipulated images ha
 
 The system accepts an image as input, processes it, and predicts whether the image is **Real** or **Deepfake**.
 
+The dataset is not included in this repository because of its large size. To run the training pipeline, download the required dataset separately and place the images in the appropriate dataset/raw/real and dataset/raw/fake directories.
 ## 🚀 Features
 
 * 🖼️ Upload and analyze images
